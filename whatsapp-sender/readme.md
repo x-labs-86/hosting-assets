@@ -1,1 +1,0 @@
-# WhatsApp Sender (WA Sender)
