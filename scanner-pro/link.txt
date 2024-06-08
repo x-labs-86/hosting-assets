@@ -1,0 +1,11 @@
+icon circle :
+https://www.flaticon.com/free-icon/barcode_5567118
+
+icon square : 
+https://www.flaticon.com/free-icon/barcode_5544826
+
+author/creator :
+https://www.flaticon.com/authors/secret-studio
+
+attribute :
+<a href="https://www.flaticon.com/free-icons/barcode" title="barcode icons">Barcode icons created by Secret Studio - Flaticon</a>

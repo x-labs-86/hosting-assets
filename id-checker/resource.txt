@@ -1,0 +1,4 @@
+- https://github.com/agraris/nusantara-valid
+- https://github.com/bachors/nik_parse.js
+- https://github.com/mul14/nik_parser.ts
+- https://github.com/cunkz/parsenik
